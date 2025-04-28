@@ -26,6 +26,7 @@ import jakarta.ws.rs.core.Response;
 
 public class HealthUtilIT {
 
+  
   private static String port;
   private static String contextRoot;
   private static String baseUrl;
